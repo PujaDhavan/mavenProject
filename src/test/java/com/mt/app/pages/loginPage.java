@@ -27,7 +27,7 @@ public class loginPage {
 		userName.sendKeys(uname);
 		password.sendKeys(pass);
 		submit_btn.click();
-		
+		System.out.println("hi");
 	}
 	public void signoff()
 	{
