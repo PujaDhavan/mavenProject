@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="18981" started-at="2021-10-21T21:46:43 IST" finished-at="2021-10-21T21:47:02 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="18981" started-at="2021-10-21T21:46:43 IST" finished-at="2021-10-21T21:47:02 IST">
+      <class name="com.mt.app.tests.MarqueryTourTest">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:com.mt.app.tests.MarqueryTourTest@544a2ea6]" name="openBrowser" is-config="true" duration-ms="3951" started-at="2021-10-21T21:46:40 IST" finished-at="2021-10-21T21:46:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="openUrl()[pri:0, instance:com.mt.app.tests.MarqueryTourTest@544a2ea6]" name="openUrl" is-config="true" duration-ms="4695" started-at="2021-10-21T21:46:43 IST" finished-at="2021-10-21T21:46:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openUrl -->
+        <test-method status="PASS" signature="maximizeWindow()[pri:0, instance:com.mt.app.tests.MarqueryTourTest@544a2ea6]" name="maximizeWindow" is-config="true" duration-ms="168" started-at="2021-10-21T21:46:48 IST" finished-at="2021-10-21T21:46:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- maximizeWindow -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.mt.app.tests.MarqueryTourTest@544a2ea6]" name="beforeMethod" is-config="true" duration-ms="36" started-at="2021-10-21T21:46:48 IST" finished-at="2021-10-21T21:46:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="Registarion()[pri:0, instance:com.mt.app.tests.MarqueryTourTest@544a2ea6]" name="Registarion" duration-ms="7121" started-at="2021-10-21T21:46:48 IST" finished-at="2021-10-21T21:46:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Registarion -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.mt.app.tests.MarqueryTourTest@544a2ea6]" name="afterMethod" is-config="true" duration-ms="231" started-at="2021-10-21T21:46:56 IST" finished-at="2021-10-21T21:46:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.mt.app.tests.MarqueryTourTest@544a2ea6]" name="beforeMethod" is-config="true" duration-ms="9" started-at="2021-10-21T21:46:56 IST" finished-at="2021-10-21T21:46:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="loginDemo()[pri:1, instance:com.mt.app.tests.MarqueryTourTest@544a2ea6]" name="loginDemo" duration-ms="6417" started-at="2021-10-21T21:46:56 IST" finished-at="2021-10-21T21:47:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginDemo -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.mt.app.tests.MarqueryTourTest@544a2ea6]" name="afterMethod" is-config="true" duration-ms="230" started-at="2021-10-21T21:47:02 IST" finished-at="2021-10-21T21:47:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="m1()[pri:0, instance:com.mt.app.tests.MarqueryTourTest@544a2ea6]" name="m1" is-config="true" duration-ms="1" started-at="2021-10-21T21:47:02 IST" finished-at="2021-10-21T21:47:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m1 -->
+        <test-method status="PASS" signature="m2()[pri:0, instance:com.mt.app.tests.MarqueryTourTest@544a2ea6]" name="m2" is-config="true" duration-ms="0" started-at="2021-10-21T21:47:02 IST" finished-at="2021-10-21T21:47:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m2 -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:com.mt.app.tests.MarqueryTourTest@544a2ea6]" name="afterSuite" is-config="true" duration-ms="86" started-at="2021-10-21T21:47:03 IST" finished-at="2021-10-21T21:47:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.mt.app.tests.MarqueryTourTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
